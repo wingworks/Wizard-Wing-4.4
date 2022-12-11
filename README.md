@@ -17,7 +17,7 @@ Freeride Wing
 |Projected area|4.2sqm|
 |Wingspan (flat)|3.2m|
 |Aspect ratio|2.4|
-|Created|Sun Dec 11 14:04:03 2022 (CET)|
+|Created|Sun Dec 11 14:08:31 2022 (CET)|
 |Serial-Number|9497d742|
 |Release|0.1|
 |Author|Karsten Gaebert, ![](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/contact.gif)|
@@ -39,7 +39,7 @@ A release can also include pdf files in size A1 that you can print at your local
 
 You can find all releases in the [release section](https://github.com/wingworks/Wizard-Wing-4.4/releases).
 
-If there is no release yet or if you need a different print format or size (e.g. pdf), please create a [github issue](https://github.com/wingworks/Wizard/issues/new)
+If there is no release yet or if you need a different print format or size (e.g. pdf), please create a [github issue](https://github.com/wingworks/Wizard-Wing-4.4/issues/new)
 
 ## Fabric suppliers ##
 
@@ -105,7 +105,7 @@ If it's a good and strong household sewing machine that is able to sew a zigzag 
 
 If you want to contribute to this project and make it better, your help is very welcome. Share your experiences, lessons learned, pictures, feedback etc.
 
-You can create a pull request ([?](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)) to extend this project with your pictures etc. or create a [github issue](https://github.com/wingworks/Wizard/issues/new) [(?)](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) to get help, report bugs, request improvements etc.
+You can create a pull request ([?](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)) to extend this project with your pictures etc. or create a [github issue](https://github.com/wingworks/Wizard-Wing-4.4/issues/new) [(?)](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) to get help, report bugs, request improvements etc.
 
 ## Support ##
 

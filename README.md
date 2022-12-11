@@ -2,7 +2,7 @@
 
 ![wizard_44_v4](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_front.png)
 
-You can find more pictures in the [gallery](https://github.com/wingworks/Wizard/#gallery)
+You can find more pictures in the [gallery](https://github.com/wingworks/Wizard-Wing-4.4#gallery)
 
 ## Info ##
 
@@ -17,10 +17,10 @@ Freeride Wing
 |Projected area|4.2sqm|
 |Wingspan (flat)|3.2m|
 |Aspect ratio|2.4|
-|Created|Sun Dec 11 13:43:59 2022 (CET)|
+|Created|Sun Dec 11 14:04:03 2022 (CET)|
 |Serial-Number|9497d742|
 |Release|0.1|
-|Author|Karsten Gaebert, ![](https://github.com/wingworks/Wizard/blob/main/contact.gif)|
+|Author|Karsten Gaebert, ![](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/contact.gif)|
 
 ## Downloads ##
 
@@ -37,7 +37,7 @@ Each release of the project includes the following files:
 
 A release can also include pdf files in size A1 that you can print at your local copy shop. 
 
-You can find all releases in the [release section](https://github.com/wingworks/Wizard/releases).
+You can find all releases in the [release section](https://github.com/wingworks/Wizard-Wing-4.4/releases).
 
 If there is no release yet or if you need a different print format or size (e.g. pdf), please create a [github issue](https://github.com/wingworks/Wizard/issues/new)
 
@@ -69,7 +69,7 @@ You better get a used wing.
 
 **May I sell the Wizard <product-type I made according to the plan in this project?**
 
-No! You are only allowed to build them for your private use. See [copyright](https://github.com/wingworks/Wizard/#copyright)
+No! You are only allowed to build them for your private use. See [copyright](https://github.com/wingworks/Wizard-Wing-4.4/#copyright)
 
 **Does the wing perform just as well as a commercial wing?**
 
@@ -144,7 +144,7 @@ Under the following terms:
     You may not apply legal terms or technological measures that legally 
     restrict others from doing anything the license permits. 
 
-Author: Karsten Gaebert ![](https://github.com/wingworks/Wizard/blob/main/contact.gif)
+Author: Karsten Gaebert ![](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/contact.gif)
 
 ## Gallery ##
 

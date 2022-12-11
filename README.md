@@ -14,10 +14,10 @@ Freeride Wing
 
 |Name|Value|
 |--|--|
-|Projected area|4.2sqm|
+|Projected area|4.4sqm|
 |Wingspan (flat)|3.2m|
 |Aspect ratio|2.4|
-|Created|Sun Dec 11 14:08:31 2022 (CET)|
+|Created|Sun Dec 11 14:16:39 2022 (CET)|
 |Serial-Number|9497d742|
 |Release|0.1|
 |Author|Karsten Gaebert, ![](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/contact.gif)|

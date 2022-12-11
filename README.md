@@ -1,6 +1,6 @@
 # Wizard in size 4.4 #
 
-![wizard_44_v4](https://github.com/wingworks/wizard_44_v4/blob/main/gallery/wizard_44_v4_front.png)
+![wizard_44_v4](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_front.png)
 
 You can find more pictures in the [gallery](https://github.com/wingworks/Wizard/#gallery)
 
@@ -17,7 +17,7 @@ Freeride Wing
 |Projected area|4.2sqm|
 |Wingspan (flat)|3.2m|
 |Aspect ratio|2.4|
-|Created|Sun Dec 11 13:24:21 2022 (CET)|
+|Created|Sun Dec 11 13:43:59 2022 (CET)|
 |Serial-Number|9497d742|
 |Release|0.1|
 |Author|Karsten Gaebert, ![](https://github.com/wingworks/Wizard/blob/main/contact.gif)|
@@ -148,19 +148,19 @@ Author: Karsten Gaebert ![](https://github.com/wingworks/Wizard/blob/main/contac
 
 ## Gallery ##
 
-![right](https://github.com/wingworks/wizard_44_v4/blob/main/gallery/wizard_44_v4_right.png)<br>
+![right](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_right.png)<br>
 *Wizard - Right view*
 
-![bottom](https://github.com/wingworks/wizard_44_v4/blob/main/gallery/wizard_44_v4_bottom.png)<br>
+![bottom](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_bottom.png)<br>
 *Wizard - Bottom view*
 
-![top](https://github.com/wingworks/wizard_44_v4/blob/main/gallery/wizard_44_v4_top.png)<br>
+![top](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_top.png)<br>
 *Wizard - Top view*
 
-![perspective_top](https://github.com/wingworks/wizard_44_v4/blob/main/gallery/wizard_44_v4_perspective_top.png)<br>
+![perspective_top](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_perspective_top.png)<br>
 
-![perspective_bottom](https://github.com/wingworks/wizard_44_v4/blob/main/gallery/wizard_44_v4_perspective_bottom.png)<br>
+![perspective_bottom](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_perspective_bottom.png)<br>
 
-![behind](https://github.com/wingworks/wizard_44_v4/blob/main/gallery/wizard_44_v4_behind.png)<br>
+![behind](https://github.com/wingworks/Wizard-Wing-4.4/blob/master/gallery/wizard_44_v4_behind.png)<br>
 *Wizard - View from behind*
 
